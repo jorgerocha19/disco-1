@@ -1,6 +1,9 @@
 @charset "UTF-8";
 
-
+* {
+    margin: 0px;
+    padding: 0px;
+}
 
 
 body {
@@ -67,7 +70,6 @@ nav > a:hover {
     background-color: green;
     border-radius: 5px;
     padding: 4px;
-    transition-duration: 0.25s;
     
 }
 
