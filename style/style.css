@@ -17,7 +17,6 @@ header {
     margin:auto;
     padding-top: 40px;
     padding-bottom: 40px;
-    font-size: 1.7em;
     color: white;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.3);
    
@@ -42,6 +41,7 @@ header > p
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
+    font-size: 0.9em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.3);
 }
 
